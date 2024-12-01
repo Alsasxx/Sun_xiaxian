@@ -1,0 +1,22 @@
+tile_data = [
+    (145, 325, 'assets/images/tiles/145_325.png'),
+    (0, 255, 'assets/images/tiles/0_255.png'),
+    (0, 768, 'assets/images/tiles/0_768.png'),
+    (63, 303, 'assets/images/tiles/65_303.png'),
+    (421, 417, 'assets/images/tiles/421_417.png'),
+    (130, 736, 'assets/images/tiles/130_736.png'),
+    (500, 395, 'assets/images/tiles/500_395.png'),
+    (205, 715, 'assets/images/tiles/205_715.png'),
+    (579, 359, 'assets/images/tiles/579_359.png'),
+    (281, 680, 'assets/images/tiles/281_680.png'),
+    (487, 620, 'assets/images/tiles/487_620.png'),
+    (657, 619, 'assets/images/tiles/657_619.png'),
+    (921, 574, 'assets/images/tiles/921_574.png'),
+    (237, 193, 'assets/images/tiles/237_193.png'),
+    (372, 123, 'assets/images/tiles/372_123.png'),
+    (527, 122, 'assets/images/tiles/527_122.png'),
+    (427, 680, 'assets/images/tiles/427_680.png'),
+    (767, 467, 'assets/images/tiles/767_467.png'),
+    (235, 355, 'assets/images/tiles/235_355.png'),
+    # 依次添加其他地图块数据 (x, y, 图片路径)
+]
